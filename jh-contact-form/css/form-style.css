@@ -1,0 +1,52 @@
+form.jh-contact-form label
+{
+	clear: both;
+	display: block;
+	float: left;
+	width: 130px;
+}
+
+form.jh-contact-form input
+{
+	display: block;
+	float: left;
+}
+
+form.jh-contact-form textarea
+{
+	display: block;
+	float: left;
+}
+
+form.jh-contact-form br
+{
+	clear: both;
+}
+
+
+.jh-contact-form-name
+{
+	width: 200px;
+}
+
+.jh-contact-form-email
+{
+	width: 300px;
+}
+
+.jh-contact-form-phone
+{
+	width: 150px;
+}
+
+.jh-contact-form-subject
+{
+	width: 400px;
+}
+
+.jh-contact-form-message
+{
+	width: 400px;
+	height: 200px;
+}
+
